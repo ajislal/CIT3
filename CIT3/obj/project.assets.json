@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CodeS\\CITest\\CITest\\CITest.csproj",
-      "projectName": "CITest",
-      "projectPath": "D:\\CodeS\\CITest\\CITest\\CITest.csproj",
+      "projectUniqueName": "D:\\CodeS\\CIT3\\CIT3.csproj",
+      "projectName": "CIT3",
+      "projectPath": "D:\\CodeS\\CIT3\\CIT3.csproj",
       "packagesPath": "C:\\Users\\arsinp1298\\.nuget\\packages\\",
-      "outputPath": "D:\\CodeS\\CITest\\CITest\\obj\\",
+      "outputPath": "D:\\CodeS\\CIT3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arsinp1298\\AppData\\Roaming\\NuGet\\NuGet.Config",

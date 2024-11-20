@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace CITest
+namespace CIT3
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("CI Test");
+            Console.WriteLine("Hello World!");
         }
     }
 }
